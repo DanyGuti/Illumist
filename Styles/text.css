@@ -1,0 +1,13 @@
+p {
+  font-size: 1vw;
+  font-family: "Open Sans", sans-serif;
+  text-align: top;
+  font-weight: bold;
+}
+
+.p-topBar {
+  text-align: center;
+  padding: 5%;
+  margin-left: 10%;
+  font-size: 2vw;
+}
