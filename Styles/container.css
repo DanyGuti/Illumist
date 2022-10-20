@@ -1,8 +1,9 @@
 /* Main grid container*/
 .grid-container {
   display: grid;
-  grid-gap: 1em;
+  gap: 1em;
   width: 90vw;
+  margin: 0 auto;
   height: 90vh;
 }
 
@@ -60,7 +61,7 @@
   .grid-container {
     display: grid;
     grid-gap: 0.5em;
-    width: 60vw;
+    margin: 0 auto;
     height: 40vh;
   }
 
